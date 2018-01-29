@@ -18,3 +18,5 @@ tmp/*
 !/tmp/.keep
 
 .byebug_history
+
+node_modules
